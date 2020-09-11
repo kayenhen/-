@@ -61,5 +61,6 @@ int main()
 		CreatLinkListFunction(n);  
 		EnterPassword(n);       
 		printf("\n出队的人依次是:\n");
-		OutListFunction(m,n);      
+		OutListFunction(m,n); 
+		 0；
 	}
